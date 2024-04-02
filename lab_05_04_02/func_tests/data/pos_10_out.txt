@@ -1,0 +1,12 @@
+fifth_prod
+Someone
+1000
+7
+second_prod
+Slave
+666
+13
+first_prod
+Zubenko
+300
+3

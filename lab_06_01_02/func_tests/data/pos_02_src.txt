@@ -1,0 +1,9 @@
+big knife
+3
+1
+bomb
+10
+5
+big cleaver
+5
+2
